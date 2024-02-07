@@ -1,0 +1,47 @@
+body {
+    display: block;
+    background-color: rgb(75, 75, 78);
+    margin: auto;
+    width: 500px;
+    text-align: center;
+}
+
+h1 {
+    background-color: white;
+    width: 300px;
+    margin: 10px auto;
+}
+
+h2 {
+    display: block;
+    background-color: aqua;
+    padding: 8px;
+    margin: auto;
+}
+
+ul {
+    text-align: left;
+    background-color: aliceblue;
+    margin: 0;
+    margin-bottom: 5px;
+    padding: auto;
+}
+
+p {
+    background-color: aliceblue;
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+ol {
+    background-color: aliceblue;
+    margin: 0;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+h3 {
+    background-color: aqua;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
