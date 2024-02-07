@@ -1,0 +1,76 @@
+body {
+    background-color: white;
+    margin: 20px auto;
+    height: 20px;
+    width: 600px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#border {
+    width: 100%;
+    height: 15px;
+    background-image: url(./images/c-border.png);
+    background-size: 30px 15px;
+    background-repeat: repeat-x;
+    background-position: 2px;
+}
+
+span,.Top-Menu {
+    display: flexbox;
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 15px;
+}
+
+body
+.page-title {
+    margin: 80px auto;
+    font-size: 40px;
+}
+
+body
+.page-description {
+    border-top: solid 1px;
+    padding: 3px;
+}
+
+body
+.body-description {
+    margin: 20px auto;
+    text-align: left;
+    width: 500px;
+}
+
+main {
+    background-color: white;
+    margin: 30px auto;
+    width: 500px;
+    padding: 10px;
+    border: solid 2px black;
+}
+
+h2
+span {
+    display: block;
+    font-size: 25px;
+    padding: 10px;
+}
+
+sub {
+    border-top: solid 1px black;
+    padding: 5px;
+}
+
+button {
+    background-color: yellow;
+    font-weight: 700;
+    border: 10px solid white;
+    padding: 10px 15px;
+}
+
+.ingredients,.instructions {
+    text-align: left;
+    padding: 5px;
+    font-size: 15px;
+}
